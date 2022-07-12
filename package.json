@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "name": "projecto_clip",
+  "description": "inicios del proyecto clip to hosue\r if you can helpme ... thanks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JStalyn/projecto_clip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JStalyn/projecto_clip/issues"
+  },
+  "homepage": "https://github.com/JStalyn/projecto_clip#readme"
 }
